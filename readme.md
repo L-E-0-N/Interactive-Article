@@ -1,4 +1,5 @@
-# **Project 1.C**
+# **Interactive Article**
+Project 1 - Assignment C
 
 ![][cover]
 
@@ -13,6 +14,7 @@ Luckily my Research for Data subject was rich with datasets so I could easily us
 
 ![][concept]
 
+
 **A**: This is a dashboard with steps. You go through the steps by click the next / previous button. Each step a new insight it shown with a fitting description.
 
 **B**: Since I got quite a lot of context out of my research case I could use, I wanted to get one concept which would use the full benefits of it. So I came up with an interactive article. Like described above, the user can interactive with the data and the data will update according to the chapters that's being read. Since the left side is an article you can place as much context in it as you like.
@@ -21,7 +23,7 @@ Luckily my Research for Data subject was rich with datasets so I could easily us
 
 So I had three concepts, one with little to no context (**C**). One with a bit more freedom (**A**) and one with endless freedom (**B**). I choose for concept **B** because I wanted to use my research case and actually think it will benefit the user. Another reason was because the dashboards were less innovative to my knowledge. It's just clicking buttons to view the next step / or none at all. With the interactive article you can easily go a couple of steps further or back by scrolling up or down. My coach also said that concept **B** would be good enough to pass as both assignment A & B if it would work properly.
 
-**Steps**
+## **Steps**
 
 2. Started building the d3 bubble chart
 3. Used multiple forces to make the "bubbles" separate
