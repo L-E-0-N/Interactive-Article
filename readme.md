@@ -5,12 +5,8 @@
 ## **Github Page**
 [Github Page](https://leonvanzijl.github.io/Interactive-Article/)
 
----
-
 ## **Background**
 In this assignment I’ve created an interactive article explaining what cyberbullying is and how it's affecting The Netherlands. The user can interact with the data to show different aspects of the used datasets. The data itself will also be changing throughout the article so it shows datavisualisations of the chapters you're reading at that moment.
-
----
 
 ## **Concept**
 Luckily my Research for Data subject was rich with datasets so I could easily use that as my subject for this assignment. First of all I viewed plenty of datavisualisations to understand how other people used them to communicate the data to their readers. After I got some inspiration I created 3 concepts:
@@ -24,8 +20,6 @@ Luckily my Research for Data subject was rich with datasets so I could easily us
 **C**: This is a dashboard without any context. All the data was shown on one page with little to no context. The challenge here is to make the datavisualisations as easily understandable as possible. So the users wouldn't need any context.
 
 So I had three concepts, one with little to no context (**C**). One with a bit more freedom (**A**) and one with endless freedom (**B**). I choose for concept **B** because I wanted to use my research case and actually think it will benefit the user. Another reason was because the dashboards were less innovative to my knowledge. It's just clicking buttons to view the next step / or none at all. With the interactive article you can easily go a couple of steps further or back by scrolling up or down. My coach also said that concept **B** would be good enough to pass as both assignment A & B if it would work properly.
-
----
 
 **Steps**
 
@@ -568,8 +562,6 @@ return lasterLine[0].positionX + "," + lasterLine[0].positionY + "," + lasterLin
 	return lasterLine[0].positionX + "," + lasterLine[0].positionY + "," + lasterLine[1].positionX + "," + lasterLine[1].positionY + "," + lasterLine[2].positionX + "," + lasterLine[2].positionY + "," + lasterLine[3].positionX + "," + lasterLine[3].positionY + "," + lasterLine[4].positionX + "," + lasterLine[4].positionY;
 ```
 
----
-
 ## **Data**
 I used multiple datasets for the different graphs / charts. Below are some samples for the datasets.
 
@@ -690,8 +682,6 @@ I used multiple datasets for the different graphs / charts. Below are some sampl
 | 10 | Anders              | 38.2       |
 
 
----
-
 ## **Features**
 1. `d3-Domain` - Setting the data
 2. [`d3-Scale`](https://github.com/d3/d3-scale) - Position encodings
@@ -704,12 +694,8 @@ I used multiple datasets for the different graphs / charts. Below are some sampl
 9. [`ScrollReveal`](https://github.com/jlmakes/scrollreveal)
 10. [`ScaleOrdinal`](https://github.com/d3/d3-scale/blob/master/README.md#scaleOrdinal)
 
----
-
 ## **License**
 MIT © Leon van Zijl
-
----
 
 ## **Sources**
 1. [`Dataset`](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=83096ned&D1=185,201,204,207,210,213&D2=0-2,4-8,35-40&D3=0&D4=a&HDR=T&STB=G1,G2,G3&VW=T) - Cyberbullying dataset with all the different kinds.
